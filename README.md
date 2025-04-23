@@ -89,11 +89,5 @@ Please ensure your code follows proper style guidelines and includes necessary t
 
 ---
 
-### 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 > **Disclaimer:** This application is for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.
 
